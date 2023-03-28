@@ -3,3 +3,4 @@ examples/report.html
 *.docx
 practice/practice.pdf
 practice/practice.html
+.DS_Store
