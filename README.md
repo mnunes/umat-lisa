@@ -12,7 +12,16 @@ You need to install the following software:
 
 - `R`: [https://cran.r-project.org/](https://cran.r-project.org/)
 - RStudio: [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/)
-- Some packages either running `source("https://raw.githubusercontent.com/mnunes/2nd-csds/master/setup.R")` inside RStudio or clicking on [https://github.com/mnunes/2nd-csds/blob/master/setup.R](https://github.com/mnunes/2nd-csds/blob/master/setup.R) and copying and pasting its contents
+- Some R packages either running `source("source("https://raw.githubusercontent.com/mnunes/umat-lisa/main/setup.R")")` inside RStudio or clicking on [https://raw.githubusercontent.com/mnunes/umat-lisa/main/setup.R](https://raw.githubusercontent.com/mnunes/umat-lisa/main/setup.R)) and copying and pasting its contents
+
+## How to use this material
+
+- If you are familiar with git, just clone or fork this repository
+- If you are not familiar with git, click on the `Code` green button and choose `Download ZIP`
+
+![](https://github.com/mnunes/umat-lisa/raw/main/images/github.png)
+
+- Open the presentation slides located at the root folder and follow its instructions
 
 
 <hr >
